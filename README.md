@@ -10,3 +10,5 @@ Rating = -5.237248 + 0.1741241*PER + 26.0059929*WS40
 Individual ratings are then adjusted so the team's weighted average Composite Rating (times 4.064, a scalar to account for score effects) equals the team's Net Rating. Wins Generated are derived by divvying up the team's Net Rating-implied wins according to each player's contribution to the team's Net Rating.
 
 ### The Regression Model predicts the ‘Wins_Generated’ attribute of the player. 
+
+Dataset source - https://github.com/fivethirtyeight/WNBA-stats
